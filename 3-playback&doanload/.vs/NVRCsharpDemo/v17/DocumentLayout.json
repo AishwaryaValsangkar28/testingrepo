@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SmartiAM\\Desktop\\testingrepo\\3-playback\u0026doanload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FB17B8-78CE-4709-B788-D30526AEA330}|NVRCsharpDemo\\NVRCsharpDemo.csproj|c:\\users\\smartiam\\desktop\\testingrepo\\3-playback\u0026doanload\\nvrcsharpdemo\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FB17B8-78CE-4709-B788-D30526AEA330}|NVRCsharpDemo\\NVRCsharpDemo.csproj|solutionrelative:nvrcsharpdemo\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SmartiAM\\Desktop\\testingrepo\\3-playback\u0026doanload\\NVRCsharpDemo\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "NVRCsharpDemo\\MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\SmartiAM\\Desktop\\testingrepo\\3-playback\u0026doanload\\NVRCsharpDemo\\MainWindow.Designer.cs",
+              "RelativeToolTip": "NVRCsharpDemo\\MainWindow.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:15:38.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
